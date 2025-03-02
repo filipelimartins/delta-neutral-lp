@@ -1,0 +1,32 @@
+{
+  "name": "delta-neutral-lp",
+  "version": "0.1.0",
+  "description": "Delta neutral LP positions with automatic rebalancing",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipelimartins/delta-neutral-lp.git"
+  },
+  "keywords": [
+    "defi",
+    "uniswap",
+    "delta-neutral",
+    "trading",
+    "hedge",
+    "web3",
+    "LP",
+    "liquidity",
+    "pool",
+    "blockchain",
+    "ethers"
+  ],
+  "author": "Filipe Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipelimartins/delta-neutral-lp/issues"
+  },
+  "homepage": "https://github.com/filipelimartins/delta-neutral-lp#readme"
+}

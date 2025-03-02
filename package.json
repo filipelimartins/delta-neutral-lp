@@ -28,5 +28,15 @@
   "bugs": {
     "url": "https://github.com/filipelimartins/delta-neutral-lp/issues"
   },
-  "homepage": "https://github.com/filipelimartins/delta-neutral-lp#readme"
+  "homepage": "https://github.com/filipelimartins/delta-neutral-lp#readme",
+  "dependencies": {
+    "@uniswap/sdk-core": "^7.6.0",
+    "@uniswap/v3-sdk": "^3.24.1",
+    "dotenv": "^16.4.7",
+    "ethers": "5.7",
+    "node-binance-api": "^0.13.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
